@@ -4,4 +4,4 @@
 
 #### Camp Registration Made Easy!
 
-**Time For Camp** provides a user-friendly platform for camp sponsors and coaches to publish and accept registrations for camps and clinics without having to worry about html, hosting, or payment gateway configuration.  Our streamlined process saves you time and money so that you can focus on what matters most...putting on the best camp that you can!
+[**Time For Camp**](https://timeforcamp.com) provides a user-friendly platform for camp sponsors and coaches to publish and accept registrations for camps and clinics without having to worry about html, hosting, or payment gateway configuration.  Our streamlined process saves you time and money so that you can focus on what matters most...putting on the best camp that you can!
