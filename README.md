@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://github.com/timeforcamp/time-for-camp/blob/master/tfcadmin-logo.png" alt="Time For Camp" width="200"/>
-</p>
+<img src="https://github.com/timeforcamp/time-for-camp/blob/master/tfcadmin-logo.png" alt="Time For Camp" width="200"/>
 
-#### A member of Two Socks Media, LLC
+### Camp Registration Made Easy!
+
